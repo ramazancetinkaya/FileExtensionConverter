@@ -88,6 +88,8 @@ Commercial/individual use of the information and code in this project is entirel
 
 ---
 
+The contributors to this project have put in their best effort to ensure the quality and accuracy of the software. However, due to the nature of software development, there may be unintended bugs or errors that have gone unnoticed. The author of this software cannot be held responsible for any such issues that may arise from the use of this software.
+
 By using this software, you agree to the above terms and conditions. If you do not agree with these terms, you should not use this software.
 
 ## Support
