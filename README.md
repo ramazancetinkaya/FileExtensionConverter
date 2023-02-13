@@ -92,6 +92,8 @@ This project is intended for educational and informational purposes only, and sh
 
 Commercial/individual use of the information and code in this project is entirely at your own risk.
 
+By using this software, you agree to the above terms and conditions. If you do not agree with these terms, you should not use this software.
+
 ## Support
 If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
 
