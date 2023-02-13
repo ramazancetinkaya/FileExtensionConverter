@@ -90,10 +90,6 @@ This project is intended for educational and informational purposes only, and sh
 
 ###
 
-The author will not be held responsible for any errors, omissions, or damages arising from the use of the information in this project. The information in this project is provided "as is", without warranty of any kind, either expressed or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. 
-
-###
-
 Use of the information in this project is at your own risk.
 
 ## Support
