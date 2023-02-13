@@ -27,6 +27,16 @@
 - [ ] Handle the case where the specified file name already exists
 - [ ] Preserve file size and date during the conversion process
 
+## Usage
+
+```php
+$fileConverter = new FileConverter('/path/to/directory', 'txt', 'log');
+$fileConverter->convert();
+
+echo 'Number of converted files: ' . $fileConverter->getConvertedFileCount() . PHP_EOL;
+echo 'Conversion time: ' . $fileConverter->getConversionTime() . ' seconds' . PHP_EOL;
+```
+
 ## Contributing
 If you would like to contribute to the development of this class, I would be more than happy to consider your contributions!
 
