@@ -105,4 +105,14 @@ Ramazan Çetinkaya
 
 ## Copyright and License
 
+As the author of this software, I retain ownership of the code and any associated intellectual property. However, I am happy to make the software available for use in open source projects, under the following conditions:
+
+    1. Attribution: Any use of the software in a public or open source project must clearly indicate my name as the original author of the code. This includes, but is not limited to, including my name in the software's documentation, comments, and any accompanying materials.
+
+    2. Open Source: The software may be used in open source projects, as long as the project is also open source and uses a compatible open source license.
+
+    3. No Warranty: The software is provided "as is," without warranty of any kind, express or implied. I will not be liable for any damages arising from the use of the software.
+
+    4. No Liability: I will not be liable for any damages resulting from the use of the software, including but not limited to any direct, indirect, special, incidental, or consequential damages.
+
 Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
