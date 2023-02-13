@@ -78,7 +78,15 @@ Together, let's create a positive and welcoming community!
 
 ## Disclaimer
 
-The code and writing in this project are solely owned by the author and are not to be used for commercial purposes without permission. The author makes no warranties about the completeness, reliability, and accuracy of the information provided in this project. 
+The code and contents of this project are solely owned by the author and are provided as is without any warranty or responsibility. The author does not guarantee the accuracy, reliability, or completeness of the information and will not be held liable for any errors, omissions, or other inaccuracies.
+
+###
+
+By using this project, you understand and agree that the author is not responsible or liable in any manner for any damage or loss caused by the use of the information and contents in this project.
+
+###
+
+This project is intended for educational and informational purposes only, and should not be considered as professional advice or recommendations. The author encourages you to seek appropriate professional guidance before taking any action based on the information and contents provided in this project.
 
 ###
 
