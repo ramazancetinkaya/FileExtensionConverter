@@ -10,7 +10,7 @@
  * @version 1.0.0
  * @since 2023-02-13
  */
-class FileConverter {
+class FileExtensionConverter {
     
     /**
      * The directory path that contains the files to be converted
