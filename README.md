@@ -76,6 +76,10 @@ If you encounter a situation that you feel is not aligned with our Code of Condu
 
 Together, let's create a positive and welcoming community!
 
+## Disclaimer:
+The code and content of this project is solely owned by the author and provided as is. The author makes no warranties about the completeness, reliability, and accuracy of the information provided. The author will not be held responsible for any errors or omissions, or for any losses, injuries, or damages arising from the use of the information provided. Use the code and content of this project at your own risk.
+
+
 ## Support
 If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
 
