@@ -21,11 +21,11 @@
 
 ## To-Do
 
-- Add support for multiple extensions
-- Create detailed report of the conversion process
-- Store the results of previous conversion processes
-- Handle the case where the specified file name already exists
-- Preserve file size and date during the conversion process
+- [ ] Add support for multiple extensions
+- [ ] Create detailed report of the conversion process
+- [ ] Store the results of previous conversion processes
+- [ ] Handle the case where the specified file name already exists
+- [ ] Preserve file size and date during the conversion process
 
 ## Contributing
 If you would like to contribute to the development of this class, I would be more than happy to consider your contributions!
