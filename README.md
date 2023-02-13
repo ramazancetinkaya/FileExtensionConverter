@@ -90,7 +90,7 @@ This project is intended for educational and informational purposes only, and sh
 
 ###
 
-Use of the information in this project is at your own risk.
+Use of the information and code in this project is entirely at your own risk.
 
 ## Support
 If you encounter any issues while using this class, or if you have any questions or feedback, please feel free to open an issue on the repository's issue tracker. I will do my best to assist you as soon as possible.
