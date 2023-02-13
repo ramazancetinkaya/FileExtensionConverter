@@ -10,6 +10,23 @@
     :star: Star us on GitHub — it motivates us a lot!
 </p>
 
+## Features
+
+- Converts all files with a specified extension in a specified directory
+- Reports the number of converted files and the time taken for the conversion process
+
+## Requirements
+
+- PHP 8.2 or higher
+
+## To-Do
+
+- Add support for multiple extensions
+- Create detailed report of the conversion process
+- Store the results of previous conversion processes
+- Handle the case where the specified file name already exists
+- Preserve file size and date during the conversion process
+
 ## Contributing
 If you would like to contribute to the development of this class, I would be more than happy to consider your contributions!
 
