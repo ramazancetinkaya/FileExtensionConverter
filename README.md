@@ -84,6 +84,8 @@ The author and the copyright holders shall not be held responsible for any damag
 
 In no event shall the author or the copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
+This project is intended for educational and informational purposes only, and should not be considered as professional advice or recommendations. The author encourages you to seek appropriate professional guidance before taking any action based on the information and contents provided in this project.
+
 ###
 
 By using this software, you agree to the above terms and conditions. If you do not agree with these terms, you should not use this software.
