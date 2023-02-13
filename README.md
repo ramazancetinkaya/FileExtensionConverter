@@ -37,6 +37,15 @@ echo 'Number of converted files: ' . $fileConverter->getConvertedFileCount() . P
 echo 'Conversion time: ' . $fileConverter->getConversionTime() . ' seconds' . PHP_EOL;
 ```
 
+## Installation
+
+The preferred method of installation is via [Composer](https://getcomposer.org/).
+
+Run the following command to install the package:
+```bash
+composer require ramazancetinkaya/{PACKAGE_NAME}
+```
+
 ## Contributing
 If you would like to contribute to the development of this class, I would be more than happy to consider your contributions!
 
