@@ -1,5 +1,14 @@
-# FileExtensionConverter
-This class is responsible for converting files in a directory to a specified extension.
+<h1 align="center">ramazancetinkaya/FileExtensionConverter</h1>
+
+<p align="center">
+    <strong>This class is used to convert all files with a specified extension in a specified directory to another specified extension. The class also reports the number of converted files and the time taken for the conversion process.</strong>
+</p>
+
+###
+
+<p align="center">
+    :star: Star us on GitHub — it motivates us a lot!
+</p>
 
 ## Contributing
 If you would like to contribute to the development of this class, I would be more than happy to consider your contributions!
