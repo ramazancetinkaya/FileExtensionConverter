@@ -5,7 +5,7 @@
  * 
  * This class is responsible for converting files in a directory to a specified extension.
  * 
- * @package FileConverter
+ * @package FileExtensionConverter
  * @author Ramazan Çetinkaya
  * @version 1.0.0
  * @since 2023-02-13
