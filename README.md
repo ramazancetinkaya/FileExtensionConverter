@@ -78,17 +78,13 @@ Together, let's create a positive and welcoming community!
 
 ## Disclaimer
 
-The code and contents of this project are solely owned by the author and are provided as is without any warranty or responsibility. The author does not guarantee the accuracy, reliability, or completeness of the information and will not be held liable for any errors, omissions, or other inaccuracies.
+The software and its copyright are owned solely by the author. Any commercial use of the software requires the author's permission. The author and the copyright holders are not responsible for any errors or problems that may have been overlooked in contributions, reviews, or any other form of modification to the software.
 
-By using this project, you understand and agree that the author is not responsible or liable in any manner for any damage or loss caused by the use of the information and contents in this project.
+The author and the copyright holders shall not be held responsible for any damages arising from the use of this software. The software is provided "as is", without warranty of any kind, express or implied.
 
-This project is intended for educational and informational purposes only, and should not be considered as professional advice or recommendations. The author encourages you to seek appropriate professional guidance before taking any action based on the information and contents provided in this project.
+In no event shall the author or the copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
-Commercial/individual use of the information and code in this project is entirely at your own risk.
-
----
-
-The contributors to this project have put in their best effort to ensure the quality and accuracy of the software. However, due to the nature of software development, there may be unintended bugs or errors that have gone unnoticed. The author of this software cannot be held responsible for any such issues that may arise from the use of this software.
+###
 
 By using this software, you agree to the above terms and conditions. If you do not agree with these terms, you should not use this software.
 
